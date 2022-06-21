@@ -15,8 +15,8 @@
   <li>CSS</li>
   <li>PostgreSQL</li>
 </ul>  
-<p> 🤝 Want to <strong>collaborate?</strong> ping me a message at the address below 👇</>
-<p> 📫 <a href="mailto:luca.div@hotmail.com" target="_blank">luca.div@hotmail.com</a> || <a href="https://www.linkedin.com/in/di-vittorio" target="_blank">www.linkedin.com/in/di-vittorio</a>🔗</p>
+<p> 🤝 Want to <strong>collaborate ?</strong> ping me a message at the address below 👇</p>
+<p> 📫 <a href="mailto:luca.div@hotmail.com" target="_blank">luca.div@hotmail.com</a> || <a href="https://www.linkedin.com/in/di-vittorio" target="_blank">https://www.linkedin.com/in/di-vittorio</a>🔗</p>
 
 <!---
 Luca-Divit/Luca-Divit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
