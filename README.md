@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Luca-Divit.
-- 👀 I’m interested in Web and Software developing, AI and all-around tech.
-- 🌱 I’m currently learning Ruby on Rails, HTML, CSS, Javascript, SQL and Python
-- 💞️ I’m looking to collaborate on challenging projects that stimulate and imoprove my knowledge.
-- 📫 How to reach me: luca.div@hotmail.com || www.linkedin.com/in/luca-damiano-di-vittorio
+- 👋 Hey there! I’m @Luca-Divit.
+- 👀 I’m interested in Software developing, AI and all-around tech.
+- 🌱 I’m currently mastering RoR, HTML, CSS, Js and PostgreSQL
+- 🤝 Want to collaborate? ping me a message at the address below 👇
+- 📫 How to reach me: luca.div@hotmail.com || www.linkedin.com/in/di-vittorio
+
 
 <!---
 Luca-Divit/Luca-Divit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
