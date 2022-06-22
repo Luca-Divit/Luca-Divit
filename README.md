@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQFDNrxx0nsWVQ/profile-displaybackgroundimage-shrink_350_1400/0/1654635027310?e=1661385600&v=beta&t=7e8Tro1LS9udloh_a0yM0JcIYiIIw6WWcMU_LLlpk8Y">
+<img src="[https://media-exp1.licdn.com/dms/image/C5616AQFDNrxx0nsWVQ/profile-displaybackgroundimage-shrink_350_1400/0/1654635027310?e=1661385600&v=beta&t=7e8Tro1LS9udloh_a0yM0JcIYiIIw6WWcMU_LLlpk8Y](https://media-exp1.licdn.com/dms/image/C5616AQE8CW8nnJLhcg/profile-displaybackgroundimage-shrink_350_1400/0/1655891173422?e=1661385600&v=beta&t=11Unjx4fsk7yEQxwpDs0jBjZqaxDzZgxkPozeu-MFO8)">
 
 <h1> 👋 Hey there! I’m <a href="https://luca-divit.github.io/profile/" target="_blank">Luca</a> .</h1>
 <p> 👀 I'm interested about:</p>
