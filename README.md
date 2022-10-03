@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQE8CW8nnJLhcg/profile-displaybackgroundimage-shrink_350_1400/0/1655891173422?e=1661385600&v=beta&t=11Unjx4fsk7yEQxwpDs0jBjZqaxDzZgxkPozeu-MFO8">
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQE8CW8nnJLhcg/profile-displaybackgroundimage-shrink_350_1400/0/1655891173422?e=1670457600&v=beta&t=rdPP8dl5nfKoF1qV4jtumdQrC3aUz8HxeO4rAxhlqPk">
 
 <h1> 👋 Hey there! I’m <a href="https://luca-divit.github.io/profile/" target="_blank">Luca</a> .</h1>
 <p> 👀 I'm interested about:</p>
