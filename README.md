@@ -8,13 +8,9 @@
   <li>All-around tech</li>
 </ul>
 <p> 💻 I’m currently mastering:</p>
-<ul>
-  <li>Ruby on rails</li>
-  <li>JavaScript</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>PostgreSQL</li>
-</ul>  
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@af9935d7-02d7-4931-9535-8b3636097a6d/c595a119-ad72-4b45-8bd2-70a97afb46f4.png" /></a>
+
 <p> 🤝 Want to <strong>collaborate ?</strong> ping me a message at the address below 👇</p>
 <p> 📫 <a href="mailto:luca.div@hotmail.com" target="_blank">luca.div@hotmail.com</a> || <a href="https://www.linkedin.com/in/di-vittorio" target="_blank">https://www.linkedin.com/in/di-vittorio</a>🔗</p>
 
