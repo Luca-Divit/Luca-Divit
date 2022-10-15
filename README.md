@@ -1,18 +1,20 @@
+<h1 align="center"> 👋 Hey there! I’m <a href="https://luca-divit.github.io/profile/" target="_blank">Luca</a> .</h1>
 <img src="https://media-exp1.licdn.com/dms/image/C5616AQE8CW8nnJLhcg/profile-displaybackgroundimage-shrink_350_1400/0/1655891173422?e=1670457600&v=beta&t=rdPP8dl5nfKoF1qV4jtumdQrC3aUz8HxeO4rAxhlqPk">
 
-<h1> 👋 Hey there! I’m <a href="https://luca-divit.github.io/profile/" target="_blank">Luca</a> .</h1>
-<h2> 👀 I'm interested about:</h2>
-<ul>
-  <li>Software developing 👨🏻‍💻</li>
-  <li>Crossfit 🏋️‍♂️</li>
-  <li>Music 🎶</li>
-</ul>
-<h2> 💻 I’m currently working with:</h2>
+<h2 align="center"> 👀 I'm interested about:</h2>
+  <p align="center">
+    <span>• Software developing 👨🏻‍💻</span><br>
+    <span>• Crossfit 🏋️‍♂️</span><br>
+    <span>• Music 🎶</span>
+  </p>
+<h2 align="center"> 💻 I’m currently working with:</h2>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@af9935d7-02d7-4931-9535-8b3636097a6d/c595a119-ad72-4b45-8bd2-70a97afb46f4.png" /></a><hr>
+<p align="center">
+  <img src="https://wakatime.com/share/@af9935d7-02d7-4931-9535-8b3636097a6d/c595a119-ad72-4b45-8bd2-70a97afb46f4.png" />
+</p><hr>
 
-<p> 🤝 Want to <strong>get in touch?</strong> ping me a message at the address below 👇</p>
-<p> 📫 <a href="mailto:luca.div@hotmail.com" target="_blank">luca.div@hotmail.com</a> | | <a href="https://www.linkedin.com/in/di-vittorio" target="_blank">https://www.linkedin.com/in/di-vittorio</a> 🔗</p>
+<p align="center"> 🤝 Want to <strong>get in touch?</strong> ping me a message at the address below 👇</p>
+<p align="center"> 📫 <a href="mailto:luca.div@hotmail.com" target="_blank">luca.div@hotmail.com</a> | | <a href="https://www.linkedin.com/in/di-vittorio" target="_blank">https://www.linkedin.com/in/di-vittorio</a> 🔗</p>
 
 <!---
 Luca-Divit/Luca-Divit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
