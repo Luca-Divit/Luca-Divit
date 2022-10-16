@@ -10,7 +10,9 @@
 <h2 align="center"> 💻 I’m currently working with:</h2>
 
 <p align="center">
-  <img src="https://wakatime.com/share/@af9935d7-02d7-4931-9535-8b3636097a6d/c595a119-ad72-4b45-8bd2-70a97afb46f4.png" />
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@af9935d7-02d7-4931-9535-8b3636097a6d/c595a119-ad72-4b45-8bd2-70a97afb46f4.png" />
+  </a>
 </p><hr>
 
 <p align="center"> 🤝 Want to <strong>get in touch?</strong> ping me a message at the address below 👇</p>
