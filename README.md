@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hey there! I’m <a href="https://luca-divit.github.io/profile/" target="_blank">Luca</a> .</h1>
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQE8CW8nnJLhcg/profile-displaybackgroundimage-shrink_350_1400/0/1655891173422?e=1670457600&v=beta&t=rdPP8dl5nfKoF1qV4jtumdQrC3aUz8HxeO4rAxhlqPk">
+<!-- <img src="https://media-exp1.licdn.com/dms/image/C5616AQE8CW8nnJLhcg/profile-displaybackgroundimage-shrink_350_1400/0/1655891173422?e=1670457600&v=beta&t=rdPP8dl5nfKoF1qV4jtumdQrC3aUz8HxeO4rAxhlqPk"> -->
 
 <h2 align="center"> 👀 I'm interested about:</h2>
   <p align="center">
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@af9935d7-02d7-4931-9535-8b3636097a6d/c595a119-ad72-4b45-8bd2-70a97afb46f4.png" />
+<!--     <img src="https://wakatime.com/share/@af9935d7-02d7-4931-9535-8b3636097a6d/c595a119-ad72-4b45-8bd2-70a97afb46f4.png" /> -->
   </a>
 </p><hr>
 
