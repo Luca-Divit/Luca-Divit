@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hey there! I’m <a href="https://luca-divit.github.io/profile/" target="_blank">Luca</a> .</h1>
-<!-- <img src="https://media-exp1.licdn.com/dms/image/C5616AQE8CW8nnJLhcg/profile-displaybackgroundimage-shrink_350_1400/0/1655891173422?e=1670457600&v=beta&t=rdPP8dl5nfKoF1qV4jtumdQrC3aUz8HxeO4rAxhlqPk"> -->
+<img src="https://media.licdn.com/dms/image/C5616AQE8CW8nnJLhcg/profile-displaybackgroundimage-shrink_350_1400/0/1655891173422?e=1677715200&v=beta&t=fMRvDjK9yO1TdIymCsxpdtBX257xGfa0VNDn1qygRf0">
 
 <h2 align="center"> 👀 I'm interested about:</h2>
   <p align="center">
