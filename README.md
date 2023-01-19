@@ -3,15 +3,15 @@
 
 <h2 align="center"> 👀 I'm interested about:</h2>
   <p align="center">
-    <span>• Software developing 👨🏻‍💻</span><br>
-    <span>• Crossfit 🏋️‍♂️</span><br>
-    <span>• Music 🎶</span>
+    <span>• Coder by day 👨🏻‍💻</span><br>
+    <span>• Crossfitter by night 🏋️‍♂️</span><br>
+    <span>• Fuelled by Music 🎶 and coffee ☕️</span>
   </p>
 <h2 align="center"> 💻 I’m currently working with:</h2>
 
 <p align="center">
   <a href="https://wakatime.com">
-<!--     <img src="https://wakatime.com/share/@af9935d7-02d7-4931-9535-8b3636097a6d/c595a119-ad72-4b45-8bd2-70a97afb46f4.png" /> -->
+    <img src="https://wakatime.com/share/@af9935d7-02d7-4931-9535-8b3636097a6d/c595a119-ad72-4b45-8bd2-70a97afb46f4.png" />
   </a>
 </p><hr>
 
