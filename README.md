@@ -3,8 +3,9 @@
 
 <h2 align="center"> Who am I❓</h2>
   <p align="center">
-    <span>• Coder by day 👨🏻‍💻</span><br>
-    <span>• Crossfitter by night 🏋️‍♂️</span><br>
+    <span>• Full stack developer 👨🏻‍💻</span><br>
+  <span>• Coding Teacher 👨🏻‍🏫 @<a href="https://www.lewagon.com/">Le Wagon</a></span><br>
+    <span>• Crossfitter 🏋️‍♂️</span><br>
     <span>• Fuelled by Music 🎶 and Coffee ☕️</span>
   </p>
 <h2 align="center"> Stack I am currently working with:</h2>
