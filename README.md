@@ -30,9 +30,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luca-divit&" alt="luca-divit" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luca-divit&label=Visitors&color=0e75b6&style=flat" alt="luca-divit" /> </p>
-
-
-<!---
-Luca-Divit/Luca-Divit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
