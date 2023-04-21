@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luca-divit" alt="luca-divit" /></a> </p>
 
-- 🔭 I’m currently working on **<a href="https://github.com/L3monJuic3/Musicon">Musicon</a>**
+- 🔭 I’m currently working on **<a href="https://github.com/L3monJuic3/Musicon">Musicon</a>** and **<a href="https://github.com/Luca-Divit/rails-gym-api">Rails Gym API</a>**
 
 - 🌱 I’m currently learning **<a href="https://nodejs.org/">Node.js</a> - <a href="https://www.typescriptlang.org/">Typescript</a> - <a href="https://redux.js.org/">Redux<a/>**
 
