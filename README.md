@@ -16,7 +16,7 @@
 <ul align="center">
   <p>🔭 I’m currently working on <a href="https://github.com/L3monJuic3/Musicon">Musicon</a> and <a href="https://github.com/Luca-Divit/rails-gym-api">Rails Gym API</a></p>
 
-  <p>🌱 I’m currently learning <a href="https://nodejs.org/">Node.js</a> - <a href="https://www.typescriptlang.org/">Typescript</a> - <a href="https://redux.js.org/">Redux<a/></p>
+  <p>🌱 I’m currently learning <a href="https://www.python.org">Python 🐍</a></p>
 
   <p>👨‍💻 Check out my new <a href="https://lucadivittorio.com">Portfolio</a></p>
 </ul>
