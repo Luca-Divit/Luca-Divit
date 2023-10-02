@@ -4,9 +4,10 @@
 <!-- <p align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F143.dk%2Finfo%2Fimg%2Ffast_web_developer.gif&f=1&nofb=1&ipt=24ec06e7a9438cbec4e2c3a344b6e7a160d0a40d1b49a68275e427ec20a4c12d&ipo=images" alt="developer gif" /></p> -->
 <h3 align="center">A Full-stack developer from London</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=luca-divit&show_icons=true&locale=en&layout=compact" alt="luca-divit" >
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=luca-divit&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="luca-divit" >
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green -->
 
-<img  src="https://github-readme-stats.vercel.app/api?username=luca-divit&show_icons=true&locale=en" alt="luca-divit" >
+<img  src="https://github-readme-stats.vercel.app/api?username=luca-divit&show_icons=true&locale=en&theme=great-gatsby" alt="luca-divit" >
 </p>
 
 <!-- <p align="center">
@@ -31,6 +32,9 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
 <!--   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
   </a> -->
@@ -42,9 +46,6 @@
   </a> -->
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -92,6 +93,6 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luca-divit&" alt="luca-divit" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luca-divit&theme=great-gatsby" alt="luca-divit" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luca-divit&label=Visitors&color=0e75b6&style=flat" alt="luca-divit" /> </p>
