@@ -7,7 +7,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=luca-divit&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="luca-divit" >
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green -->
 
-<img  src="https://github-readme-stats.vercel.app/api?username=luca-divit&show_icons=true&locale=en&theme=great-gatsby" alt="luca-divit" >
+<img  src="https://github-readme-stats.vercel.app/api?username=luca-divit&show_icons=true&locale=en&theme=great-gatsby&hide=issues" alt="luca-divit" >
 </p>
 
 <!-- <p align="center">
