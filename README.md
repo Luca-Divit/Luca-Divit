@@ -1,13 +1,9 @@
-<!-- <img src="https://media.licdn.com/dms/image/C5616AQE8CW8nnJLhcg/profile-displaybackgroundimage-shrink_350_1400/0/1655891173422?e=1684972800&v=beta&t=ogdjTyt7xv7PmdMB-FfZ0dyb3aR4COQrVhgOo-GQW0c"> -->
-
 <h1 align="center">Hi there! 👋 I'm <a href="https://www.lucadivittorio.com" target="_blank">Luca</a></h1>
-<!-- <p align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F143.dk%2Finfo%2Fimg%2Ffast_web_developer.gif&f=1&nofb=1&ipt=24ec06e7a9438cbec4e2c3a344b6e7a160d0a40d1b49a68275e427ec20a4c12d&ipo=images" alt="developer gif" /></p> -->
 <h3 align="center">A Full-stack developer from London</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=luca-divit&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="luca-divit" >
-<!-- https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green -->
-
-<img  src="https://github-readme-stats.vercel.app/api?username=luca-divit&show_icons=true&locale=en&theme=great-gatsby&hide=issues" alt="luca-divit" >
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luca-divit&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="luca-divit" >
+  <img  src="https://github-readme-stats.vercel.app/api?username=luca-divit&show_icons=true&locale=en&theme=great-gatsby&hide=issues&rank_icon=github" alt="luca-divit" >
 </p>
 
 <!-- <p align="center">
