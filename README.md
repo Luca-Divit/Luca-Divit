@@ -6,16 +6,12 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=luca-divit&show_icons=true&locale=en&theme=great-gatsby&hide=issues&rank_icon=github" alt="luca-divit" >
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luca-divit" alt="luca-divit" >
-</p> -->
-
 <ul align="center">
-  <p>🔭 I’m currently working on <a href="https://github.com/L3monJuic3/Musicon">Musicon</a> and <a href="https://fullstackopen.com/en/">Full Stack Open</a></p>
+  <p><strong>🔭 I’m currently working on <a href="https://github.com/L3monJuic3/Musicon">Musicon</a> and <a href="https://fullstackopen.com/en/">Full Stack Open</a></p></strong>
 
-  <p>🌱 I’m currently learning <a href="https://www.python.org">Python 🐍</a> & <a href="https://nodejs.org/en">Node.js</a></p>
+  <p><strong>🌱 I’m currently learning <a href="https://www.python.org">Python 🐍</a> & <a href="https://nodejs.org/en">Node.js</a></strong></p>
 
-  <p>👨‍💻 Check out my new <a href="https://lucadivittorio.com">Portfolio</a></p>
+  <p><strong>👨‍💻 Check out my new <a href="https://lucadivittorio.com">Portfolio</a></strong></p>
 </ul>
 
 <!-- - 💬 Ask me about **<a href="https://www.ruby-lang.org/">Ruby</a> - <a href="https://rubyonrails.org/">Ruby on Rails</a> - <a href="https://react.dev/">React</a>** -->
