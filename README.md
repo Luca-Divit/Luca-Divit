@@ -7,14 +7,13 @@
 </p>
 
 <ul align="center">
-  <p><strong>🔭 I’m currently working on <a href="https://github.com/L3monJuic3/Musicon">Musicon</a> and <a href="https://fullstackopen.com/en/">Full Stack Open</a></p></strong>
+  <p>🔭 I’m currently <strong>working on <a href="https://github.com/L3monJuic3/Musicon">Musicon</a></p></strong>
 
-  <p><strong>🌱 I’m currently learning <a href="https://www.python.org">Python 🐍</a> & <a href="https://nodejs.org/en">Node.js</a></strong></p>
+  <p>🌱 I’m currently <strong>completing <a href="https://fullstackopen.com/en/">Full Stack Open</a> </strong></p>
 
-  <p><strong>👨‍💻 Check out my new <a href="https://lucadivittorio.com">Portfolio</a></strong></p>
+  <p>👨‍💻 Check out my <strong>new <a href="https://lucadivittorio.com">Portfolio</a></strong></p>
 </ul>
 
-<!-- - 💬 Ask me about **<a href="https://www.ruby-lang.org/">Ruby</a> - <a href="https://rubyonrails.org/">Ruby on Rails</a> - <a href="https://react.dev/">React</a>** -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
