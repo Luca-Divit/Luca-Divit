@@ -7,11 +7,11 @@
 </p>
 
 <ul align="center">
-  <p>🔭 I’m currently <strong>working on <a href="https://github.com/L3monJuic3/Musicon">Musicon</a></p></strong>
+  <p>I’m currently <strong>working on <a href="https://github.com/L3monJuic3/Musicon">Musicon</a></strong> 🔭</p>
 
-  <p>🌱 I’m currently <strong>completing <a href="https://fullstackopen.com/en/">Full Stack Open</a> </strong></p>
+  <p>I’m currently <strong>completing <a href="https://fullstackopen.com/en/">Full Stack Open</a></strong> 🌱</p>
 
-  <p>👨‍💻 Check out my <strong>new <a href="https://lucadivittorio.com">Portfolio</a></strong></p>
+  <p>Check out my <strong>new <a href="https://lucadivittorio.com">Portfolio</a></strong> 👨‍💻</p>
 </ul>
 
 
