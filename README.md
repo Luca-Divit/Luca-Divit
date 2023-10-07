@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm <a href="https://www.lucadivittorio.com" target="_blank">Luca</a></h1>
-<h3 align="center">A Full-stack developer from London</h3>
+<h3 align="center">A Software Engineer from London</h3>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=luca-divit&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="luca-divit" >
