@@ -1,14 +1,12 @@
-<h1 align="center">Hi there! 👋 I'm <a href="https://www.lucadivittorio.com" target="_blank">Luca</a></h1>
+<h1 align="center">Hi there! 👋 I'm Luca</h1>
 <h3 align="center">A Software Engineer from London</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=luca-divit&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="luca-divit" >
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=luca-divit&show_icons=true&locale=en&theme=great-gatsby&hide=issues&rank_icon=github" alt="luca-divit" >
-</p>
+</p> -->
 
 <ul align="center">
-  <p>I’m currently <strong>working on <a href="https://github.com/L3monJuic3/Musicon">Musicon</a></strong> 🔭</p>
-
   <p>I’m currently <strong>completing <a href="https://fullstackopen.com/en/">Full Stack Open</a></strong> 🌱</p>
 
   <p>Check out my <strong>new <a href="https://lucadivittorio.com">Portfolio</a></strong> 👨‍💻</p>
@@ -32,15 +30,15 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
   </a>
@@ -78,6 +76,6 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luca-divit&theme=great-gatsby" alt="luca-divit" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luca-divit&theme=great-gatsby" alt="luca-divit" /></p> -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luca-divit&label=Visitors&color=0e75b6&style=flat" alt="luca-divit" /> </p>
