@@ -9,7 +9,7 @@
 <ul align="center">
   <p>I’m currently <strong>completing <a href="https://fullstackopen.com/en/">Full Stack Open</a></strong> 🌱</p>
 
-  <p>Check out my <strong>new <a href="https://lucadivittorio.com">Portfolio</a></strong> 👨‍💻</p>
+  <!-- <p>Check out my <strong>new <a href="https://lucadivittorio.com">Portfolio</a></strong> 👨‍💻</p> -->
 </ul>
 
 
