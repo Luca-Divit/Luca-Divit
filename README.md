@@ -75,7 +75,7 @@
 </p>
 
 
-<figure><embed src="https://wakatime.com/share/@af9935d7-02d7-4931-9535-8b3636097a6d/ffe2b750-0f19-4c8f-9247-19cf2306d1fe.svg"></embed></figure>
+<p align="center"><img height="400" width="600" src="https://wakatime.com/share/@af9935d7-02d7-4931-9535-8b3636097a6d/ffe2b750-0f19-4c8f-9247-19cf2306d1fe.svg" /></p>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luca-divit&theme=great-gatsby" alt="luca-divit" /></p> -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luca-divit&label=Visitors&color=0e75b6&style=flat" alt="luca-divit" /> </p>
