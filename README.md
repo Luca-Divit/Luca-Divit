@@ -16,7 +16,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/di-vittorio/" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luca damiano di vittorio" height="30" width="40" /></a>
-<a href="malito:luca.div@hotmail.com"><img align="top" src="https://user-images.githubusercontent.com/101739694/232300076-1c58b934-404f-4212-b7ec-5f19fc07ac67.png" alt="email" height="40" width="40" /></a>
+<!-- <a href="malito:luca.div@hotmail.com"><img align="top" src="https://user-images.githubusercontent.com/101739694/232300076-1c58b934-404f-4212-b7ec-5f19fc07ac67.png" alt="email" height="40" width="40" /></a> -->
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
