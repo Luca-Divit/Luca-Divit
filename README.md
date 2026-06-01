@@ -20,7 +20,7 @@ Currently focused on:
 - 🌱 Currently deepening my expertise through Full Stack Open
 - ☁️ Building scalable cloud-native applications on GCP
 - 📚 Always learning new technologies and engineering practices
-- 🌍 Interested in product engineering, startups, and developer tooling
+- 🌍 Interested in systems design, fintech, and ML/AI
 
 ---
 
