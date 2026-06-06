@@ -69,31 +69,17 @@ React Native • Expo
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luca-divit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca-divit&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=luca-divit&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luca-divit&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luca-divit&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luca-divit&theme=github_dark" />
 </p>
-
----
-
-## ⏱️ Weekly Coding Activity
 
 <p align="center">
-  <img src="https://wakatime.com/share/@af9935d7-02d7-4931-9535-8b3636097a6d/ffe2b750-0f19-4c8f-9247-19cf2306d1fe.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luca-divit&theme=github_dark" />
 </p>
-
----
-
-## 🎯 Current Goals
-
-- Build more React Native applications
-- Master advanced TypeScript patterns
-- Deepen cloud architecture knowledge
-- Contribute more to open source
-- Expand expertise in platform engineering
 
 ---
 
