@@ -1,8 +1,12 @@
-# Hi, I'm Luca 👋
+<div align="center">
+  
+  # Hi, I'm Luca 👋
 
 ### Full-Stack Software Engineer | TypeScript | React Native | Cloud Infrastructure
 
 I'm a software engineer based in London 🇬🇧 with experience building and scaling customer-facing products, cloud services, and developer tooling.
+
+</div>
 
 Currently focused on:
 
@@ -20,8 +24,8 @@ Currently focused on:
 
 ## 🛠️ Tech Stack
 
-### Frontend
-
+<div align="center">
+  
 | Frontend | Mobile | Backend |
 | --- | --- | --- |
 | <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,html,css" /> | <img src="https://skillicons.dev/icons?i=react" /> | <img src="https://skillicons.dev/icons?i=nodejs,dotnet,cs,express" /> |
@@ -29,6 +33,8 @@ Currently focused on:
 | Cloud & DevOps | Databases | Tools |
 | --- | --- | --- |
 | <img src="https://skillicons.dev/icons?i=gcp,docker,terraform,githubactions" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" /> | <img src="https://skillicons.dev/icons?i=git,vscode,figma" /> |
+
+</div>
 
 ---
 
