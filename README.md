@@ -6,21 +6,15 @@ I'm a software engineer based in London 🇬🇧 with experience building and sc
 
 Currently focused on:
 
-- ⚛️ React Native & TypeScript
-- ☁️ Google Cloud Platform (GCP)
-- 🏗️ Infrastructure as Code with Terraform
-- 🔄 CI/CD & Developer Experience
-- 📱 Mobile-first product development
+| ⚛️ React Native & TypeScript | ☁️ Google Cloud Platform (GCP) | 🏗️ Infrastructure as Code with Terraform | 🔄 CI/CD & Developer Experience | 📱 Mobile-first product development |
+| --- | --- | --- | --- | --- |
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Software Engineer working on acquisition and growth platforms
-- 🌱 Currently deepening my expertise through Full Stack Open
-- ☁️ Building scalable cloud-native applications on GCP
-- 📚 Always learning new technologies and engineering practices
-- 🌍 Interested in systems design, fintech, and ML/AI
+| 💼 Software Engineer working on acquisition and growth platforms | 🌱 Currently deepening my expertise through Full Stack Open | ☁️ Building scalable cloud-native applications on GCP | 📚 Always learning new technologies and engineering practices | 🌍 Interested in systems design, fintech, and ML/AI |
+| --- | --- | --- | --- | --- |
 
 ---
 
@@ -28,41 +22,13 @@ Currently focused on:
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,html,css" />
-</p>
+| Frontend | Mobile | Backend |
+| --- | --- | --- |
+| <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,html,css" /> | <img src="https://skillicons.dev/icons?i=react" /> | <img src="https://skillicons.dev/icons?i=nodejs,dotnet,cs,express" /> |
 
-### Mobile
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
-
-React Native • Expo
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,cs,express" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=gcp,docker,terraform,githubactions" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
-</p>
+| Cloud & DevOps | Databases | Tools |
+| --- | --- | --- |
+| <img src="https://skillicons.dev/icons?i=gcp,docker,terraform,githubactions" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" /> | <img src="https://skillicons.dev/icons?i=git,vscode,figma" /> |
 
 ---
 
