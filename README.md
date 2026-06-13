@@ -15,17 +15,21 @@ Currently focused on:
 
 ---
 
+<div align="center">
+  
 ## 🚀 About Me
+
+</div>
 
 | 💼 Software Engineer working on acquisition and growth platforms | 🌱 Currently deepening my expertise through Full Stack Open | ☁️ Building scalable cloud-native applications on GCP | 📚 Always learning new technologies and engineering practices | 🌍 Interested in systems design, fintech, and ML/AI |
 | --- | --- | --- | --- | --- |
 
 ---
 
+<div align="center">
+
 ## 🛠️ Tech Stack
 
-<div align="center">
-  
 | Frontend | Mobile | Backend |
 | --- | --- | --- |
 | <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,html,css" /> | <img src="https://skillicons.dev/icons?i=react" /> | <img src="https://skillicons.dev/icons?i=nodejs,dotnet,cs,express" /> |
@@ -37,6 +41,8 @@ Currently focused on:
 </div>
 
 ---
+
+<div align="center">
 
 ## 📈 GitHub Stats
 
@@ -53,7 +59,11 @@ Currently focused on:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luca-divit&theme=github_dark" />
 </p>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🤝 Let's Connect
 
@@ -62,6 +72,8 @@ Currently focused on:
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+
+</div>
 
 ---
 
