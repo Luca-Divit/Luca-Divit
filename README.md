@@ -6,9 +6,9 @@
 
 I'm a software engineer based in London 🇬🇧 with experience building and scaling customer-facing products, cloud services, and developer tooling.
 
-</div>
+## 🔎 Currently focused on
 
-Currently focused on:
+</div>
 
 | ⚛️ React Native & TypeScript | ☁️ Google Cloud Platform (GCP) | 🏗️ Infrastructure as Code with Terraform | 🔄 CI/CD & Developer Experience | 📱 Mobile-first product development |
 | --- | --- | --- | --- | --- |
@@ -74,8 +74,6 @@ Currently focused on:
 </p>
 
 </div>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luca-divit&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
